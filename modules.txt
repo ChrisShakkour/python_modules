@@ -24,3 +24,28 @@ PyPDF2
 Tkinter
 BeautifulSoup
 Selenium
+AutoGen
+CrewAI
+Semantic Kernel
+Haystack
+Flowise
+OpenAI Swarm
+Guidance
+LMQL
+Marvin
+ReAct
+AgentVerse
+MetaGPT
+OpenAgents
+ChatDev
+TaskWeaver
+BabyAGI
+CAMEL
+Reflexion
+FAISS
+Chroma
+Redis
+Ray
+Prefect
+Airflow
+FastAPI WebSockets
