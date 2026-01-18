@@ -1,0 +1,26 @@
+FastAPI
+Python Dotenv
+Pydantic
+Celery
+SQLAlchemy
+Alembic
+Pandas
+OpenAI
+Gemini API
+Ollama
+Anthropic
+Instructor
+LangChain
+LlamaIndex
+Pinecone
+Weaviate
+Qdrant
+Langfuse
+LangSmith
+DSPy
+Jinja
+PyMuPDF
+PyPDF2
+Tkinter
+BeautifulSoup
+Selenium
